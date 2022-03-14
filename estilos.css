@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+body {
+  background-color: black !important;
+}
+
+/*Header*/
+.header {
+  height: 20vh !important;
+  background-image: url();
+}
+
+.navbar {
+  background-color: transparent !important;
+  height: 12vh !important;
+}
+
+.navbar1 {
+  background-color: black !important;
+}
+
+.navbar1 h1:hover {
+  color: blue !important;
+}
+
+.navbar1-brand a {
+  color: white !important;
+  margin-left: 2vh !important;
+}
+
+.nav-item a:hover {
+  color: blue !important;
+}
+
+.navbar h1:hover {
+  color: blue !important;
+}
+
+.nav-item {
+  margin: 2vh !important;
+}
+
+.navbar-brand {
+  color: white !important;
+  margin-left: 2vh !important;
+}
+
+ul a {
+  color: white !important;
+  font-size: medium !important;
+}
+
+p {
+  color: white;
+  text-align: center !important;
+}
+
+h1 {
+  color: white !important;
+}
+
+h2 {
+  color: white !important;
+  text-align: center !important;
+  text-decoration: underline !important;
+}
+
+h6 {
+  color: white !important;
+}
+
+.container-fluid {
+  margin-top: 6vh;
+}
+
+.card {
+  background-color: black !important;
+}
+
+.card-body {
+  height: 25vh !important;
+}
+
+.card-text {
+  color: white !important;
+  height: 15vh !important;
+}
+
+.article1 {
+  width: 70vh !important;
+  -ms-flex-line-pack: center !important;
+      align-content: center !important;
+  height: 70vh !important;
+}
+
+.article11 {
+  width: 100% !important;
+  -ms-flex-line-pack: center !important;
+      align-content: center !important;
+  margin: 35vh !important;
+  background-color: black !important;
+}
+
+.form-group {
+  color: white !important;
+  width: 50vh !important;
+}
+
+.contenido1 {
+  margin-top: 2vh !important;
+  margin-bottom: 2vh !important;
+}
+
+.container1 {
+  -ms-flex-line-pack: center !important;
+      align-content: center !important;
+  margin-left: 15vh !important;
+}
+
+.parallax {
+  height: 30vh !important;
+}
+
+h5 {
+  color: white !important;
+}
+
+.jumbotron {
+  background-color: black !important;
+}
+
+.jumbotron a {
+  -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+}
+
+.carousel-item {
+  width: 100% !important;
+}
+
+.carousel-inner img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.row1 {
+  height: 15vh !important;
+  width: 60vh !important;
+  margin: 30vh !important;
+  background-color: transparent !important;
+}
+
+.row1 h2 {
+  text-align: left !important;
+}
+/*# sourceMappingURL=estilos.css.map */
